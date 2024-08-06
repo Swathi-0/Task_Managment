@@ -11,3 +11,8 @@ Task Completion: Enabled users to mark tasks as complete by updating their statu
 User Interaction: Designed a user-friendly menu-driven interface to navigate through different functionalities of the task management system.<br>
 Limit Management: Ensured efficient handling of up to 100 tasks with constraints on title, assignee, and due date lengths for optimal performance.<br>
 Error Handling: Incorporated robust error handling to manage invalid inputs and task limits.<br>
+
+# COMMANDS TO RUN THE FILE ON LINUX TERMINAL
+
+1. gcc -o task_management task_management.c <br>
+2. ./task_management
